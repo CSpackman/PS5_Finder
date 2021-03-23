@@ -11,7 +11,7 @@ import sys
 
 
 options = webdriver.ChromeOptions()
-#options.add_argument('headless')
+options.add_argument('headless')
 
 
 with open('/Users/connor/Documents/pS5_Finder/data.json') as f:
