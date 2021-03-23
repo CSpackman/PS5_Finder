@@ -85,7 +85,7 @@ while i<3:
 
    
     
-    function_text(True)
+    function_text(False)
         
     
     i +=1
